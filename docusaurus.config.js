@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'moi',
   tagline: '一个基于taichi的图形学仿真库',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://moving-object-visualization.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
