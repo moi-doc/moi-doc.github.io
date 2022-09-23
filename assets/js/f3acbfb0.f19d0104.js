@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmoi_doc=self.webpackChunkmoi_doc||[]).push([[334],{5989:e=>{e.exports=JSON.parse('{"title":"\u7b97\u6cd5","description":"Infra","slug":"/category/\u7b97\u6cd5","permalink":"/category/\u7b97\u6cd5","navigation":{"previous":{"title":"\u90bb\u57df\u641c\u7d22","permalink":"/Infra/NeighborSearch"},"next":{"title":"SPH","permalink":"/Algo/SPH"}}}')}}]);
